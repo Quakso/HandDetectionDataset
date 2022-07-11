@@ -1,0 +1,34 @@
+<annotation>
+	<folder>HandDetectionDataset</folder>
+	<filename>Buffy_272.jpg</filename>
+	<size>
+		<width>884</width>
+		<height>725</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443.8302212666511</xmin>
+			<ymin>152.12162174072722</ymin>
+			<xmax>519.1697787333487</xmax>
+			<ymax>232.87837825927275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464.16977873334866</xmin>
+			<ymin>650.6562832397715</ymin>
+			<xmax>498.8302212666512</xmax>
+			<ymax>152.12162174072722</ymax>
+		</bndbox>
+	</object>
+</annotation>

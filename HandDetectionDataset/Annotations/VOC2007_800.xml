@@ -1,0 +1,34 @@
+<annotation>
+	<folder>HandDetectionDataset</folder>
+	<filename>VOC2007_800.jpg</filename>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264.797385620915</xmin>
+			<ymin>160.9012096774193</ymin>
+			<xmax>315.4509803921568</xmax>
+			<ymax>177.9012096774193</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315.4509803921568</xmin>
+			<ymin>83.67882672199435</ymin>
+			<xmax>315.4509803921568</xmax>
+			<ymax>177.9012096774193</ymax>
+		</bndbox>
+	</object>
+</annotation>

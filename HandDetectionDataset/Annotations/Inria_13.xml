@@ -1,0 +1,34 @@
+<annotation>
+	<folder>HandDetectionDataset</folder>
+	<filename>Inria_13.jpg</filename>
+	<size>
+		<width>600</width>
+		<height>976</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>567.0661239443255</xmin>
+			<ymin>106.76814041203488</ymin>
+			<xmax>622.0384512190737</xmax>
+			<ymax>141.0060531363522</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>548.7780702453368</xmin>
+			<ymin>106.76814041203488</ymin>
+			<xmax>622.0384512190737</xmax>
+			<ymax>106.76814041203488</ymax>
+		</bndbox>
+	</object>
+</annotation>

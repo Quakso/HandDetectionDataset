@@ -1,0 +1,34 @@
+<annotation>
+	<folder>HandDetectionDataset</folder>
+	<filename>VOC2010_115.jpg</filename>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342.11402358971105</xmin>
+			<ymin>248.36645747240127</ymin>
+			<xmax>396.88597641028906</xmax>
+			<ymax>303.06672225110106</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367.88597641028906</xmin>
+			<ymin>248.36645747240127</ymin>
+			<xmax>371.11402358971105</xmax>
+			<ymax>322.44938401553236</ymax>
+		</bndbox>
+	</object>
+</annotation>

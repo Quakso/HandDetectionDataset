@@ -1,0 +1,34 @@
+<annotation>
+	<folder>HandDetectionDataset</folder>
+	<filename>Poselet_287.jpg</filename>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>556.7726887372676</xmin>
+			<ymin>408.4903908742248</ymin>
+			<xmax>587.0246968836475</xmax>
+			<ymax>450.6601467601838</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>583.6782916548893</xmin>
+			<ymin>408.4903908742248</ymin>
+			<xmax>560.1190939660257</xmax>
+			<ymax>626.295124943183</ymax>
+		</bndbox>
+	</object>
+</annotation>

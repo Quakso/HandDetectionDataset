@@ -1,0 +1,22 @@
+<annotation>
+	<folder>HandDetectionDataset</folder>
+	<filename>VOC2010_862.jpg</filename>
+	<size>
+		<width>357</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259.1359080341525</xmin>
+			<ymin>87.67483833247461</ymin>
+			<xmax>298.3553200360228</xmax>
+			<ymax>130.9058068288157</ymax>
+		</bndbox>
+	</object>
+</annotation>

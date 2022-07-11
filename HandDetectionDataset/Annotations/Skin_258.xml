@@ -1,0 +1,22 @@
+<annotation>
+	<folder>HandDetectionDataset</folder>
+	<filename>Skin_258.jpg</filename>
+	<size>
+		<width>383</width>
+		<height>597</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324.3170312907394</xmin>
+			<ymin>183.81816686728874</ymin>
+			<xmax>369.69174063908537</xmax>
+			<ymax>233.71639534469287</ymax>
+		</bndbox>
+	</object>
+</annotation>

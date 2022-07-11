@@ -1,0 +1,22 @@
+<annotation>
+	<folder>HandDetectionDataset</folder>
+	<filename>Poselet_106.jpg</filename>
+	<size>
+		<width>790</width>
+		<height>517</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239.61663956200834</xmin>
+			<ymin>468.39083691855564</ymin>
+			<xmax>281.76244540531184</xmax>
+			<ymax>491.7937508950643</ymax>
+		</bndbox>
+	</object>
+</annotation>
